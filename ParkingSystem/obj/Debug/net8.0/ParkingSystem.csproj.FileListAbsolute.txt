@@ -1,0 +1,14 @@
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\bin\Debug\net8.0\ParkingSystem.exe
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\bin\Debug\net8.0\ParkingSystem.deps.json
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\bin\Debug\net8.0\ParkingSystem.runtimeconfig.json
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\bin\Debug\net8.0\ParkingSystem.dll
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\bin\Debug\net8.0\ParkingSystem.pdb
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.AssemblyInfoInputs.cache
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.AssemblyInfo.cs
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.dll
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\refint\ParkingSystem.dll
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.pdb
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.genruntimeconfig.cache
+D:\Documents\Projects\dotnet\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ref\ParkingSystem.dll
